@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Postwork de curso R para Ciencia de Datos
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Proyecto para aplicar lo aprendido en el curso de R....
 
 ## Comenzando 🚀
 
@@ -83,10 +83,9 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Manuel Castro** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **David Alvarado** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
