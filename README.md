@@ -34,10 +34,8 @@ Da un ejemplo
 
 ## Solución a los retos  ⚙️
 
-```
+- [Solución Reto 1](https://github.com/fernandouia/Bedu/blob/main/Reto2.R) 
 
-- [Solución Reto 1](https://github.com/fernandouia/Bedu/blob/main/Reto2.R) Tipos de datos y vector
-```
 
 ## Wiki 📖
 
