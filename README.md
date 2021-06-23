@@ -20,6 +20,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 - [Instalar R](https://cran.r-project.org/bin/windows/base/)
 - [Instalar RStudio](https://www.rstudio.com/products/rstudio/download/)
 
+## 📂 Organización de la clase
 ### Retos 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
@@ -40,7 +41,8 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Solución a los retos  ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+- [Solución Reto 1](https://github.com/fernandouia/Bedu/blob/main/Reto2.R) Tipos de datos y vector
+- 
 
 ## Wiki 📖
 
@@ -85,7 +87,7 @@ Durante el transcurso de esta sesión serás capaz de desarrollar las siguientes
 - Pseudocódigo.
 
 
-## 📂 Organización de la clase
+
 
 - [Solución Reto 1](https://github.com/fernandouia/Bedu/blob/main/Reto2.R) Tipos de datos y vectores
 - [Explicació1 ](https://github.com/fernandouia/Bedu/blob/main/prueba.txt) Matrices
