@@ -3,6 +3,9 @@
 Repositorio para responder a los postwork del curso Data Science Vedu Santander
 
 ## :dart: Objetivos
+```
+Mostrar las soluciones a los retos solicitados.
+```
 
 ## Comenzando 🚀
 
@@ -14,8 +17,8 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 ### Pre-requisitos 📋
 
 
-- [Instalar R](https://github.com/beduExpert/Programacion-R-Santander-2021/tree/master/Sesion-01/Ejemplo-06) Loops y pseudocódigo: for, if-else
-- [Instalar RStudio](https://github.com/beduExpert/Programacion-R-Santander-2021/tree/master/Sesion-01/Ejemplo-06) Loops y pseudocódigo: for, if-else
+- [Instalar R](https://cran.r-project.org/bin/windows/base/)
+- [Instalar RStudio](https://www.rstudio.com/products/rstudio/download/)
 
 ### Retos 🔧
 
