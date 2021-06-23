@@ -16,12 +16,9 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-
-```
 - [Instalar R](https://cran.r-project.org/bin/windows/base/)
 - [Instalar RStudio](https://www.rstudio.com/products/rstudio/download/)
 
-```
 ## 📂 Organización del documento
 ### Retos 🔧
 
